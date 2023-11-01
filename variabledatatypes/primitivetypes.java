@@ -6,6 +6,16 @@ public class primitivetypes {
         int num2 = 2;
         System.err.println(num1+num2);
 
+        //byte
+        byte age = 25;
+        System.err.println(age);
+
+
+        //short
+        short age2 = 4;
+        System.err.println(age2);
+
+
 
         // float 
         float fnum1 = 1.5f;
