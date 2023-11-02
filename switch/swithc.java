@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-package switch;
+
 
 public class swithc {
     public static void main(String[] args) {
