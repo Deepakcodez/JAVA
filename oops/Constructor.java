@@ -2,7 +2,7 @@ class empInfo {
     public int Id;
     public String Name;
 
-    // condtructor
+    // constructor
     public empInfo() {
         Id = 101;
         Name = "Deepak";
